@@ -1,4 +1,4 @@
-# React Sprint Challenge
+# React Sprint Challenge by emre
 
 **Talimatları dikkatlice okuyun.Sprint Challenge için tam olarak neler istendiğini iyice anlamadan başlamayın.**
 
@@ -61,7 +61,6 @@ Gerekli şeyleri bitirdikten sonra çalışmanızı daha da ileri götürebilirs
 - [ ] State'e eklemeden önce API verilerinden gereksiz bilgileri kaldırmak için ayrı bir modülde bir yardımcı fonksiyon oluşturun.
 - [ ] Stil bileşenleri ile effektler veya animasyonlar oluşturun.
 - [ ] Bir dizi promise'ini çözmek için Promise.all'ı kullanın.
-
 
 ## Esnek Mülakat Soruları
 
